@@ -1,1 +1,3 @@
 "Name: Ammar Hafeez" 
+email: ammarhafeez265@gmail.com
+Faculty of Information and Technology
